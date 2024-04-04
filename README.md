@@ -7,7 +7,7 @@
 - <b>Active Directory (Basic Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell)</b>
   - [Running Active Directory on my Home network](https://github.com/iyke85/Active-Directory)<b>
 - <b>Vultr/Cloud Cybersecurity project</b>
-  - [Creating a live soc/Honepot in Zultr](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Creating a live soc/Honepot in Zultr](https://github.com/iyke85/Honey-Tpot)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
