@@ -6,7 +6,7 @@
   - [Creating a live Soc/Honeynet in Azure](https://github.com/iyke85/Cloud-Soc)
 - <b>Active Directory (Basic Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell)</b>
   - [Running Active Directory on my Home network](https://github.com/iyke85/Active-Directory)<b>
-- <b>Vultr/Cloud Cybersecurity</b>
+- <b>Vultr/Cloud Cybersecurity project</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
