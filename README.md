@@ -5,7 +5,7 @@
 - <b>Azure / Cloud Cybersecurity projects</b>
   - [Creating a live Soc/Honeynet in Azure](https://github.com/iyke85/Cloud-Soc)
 - <b>Information Technology Projects</b>
-  - [Information Technology](https://github.com/iyke85/Active-Directory)<b>
+  - [OsTicket](https://github.com/iyke85/Active-Directory)<b>
 - <b>Vultr/Cloud Cybersecurity project</b>
   - [Creating a live soc/Honepot in Vultr](https://github.com/iyke85/Honey-Tpot)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
