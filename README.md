@@ -5,7 +5,7 @@
 - <b>Azure / Cloud Cybersecurity projects</b>
   - [Creating a live Soc/Honeynet in Azure](https://github.com/iyke85/Cloud-Soc)
 - <b>Active Directory (Basic Home Lab Running Active Directory (Oracle VirtualBox) | Add Users w/PowerShell)</b>
-  - [Running Active Directory on my Home network](https://github.com/iyke85/Active-Directory)<b>
+  - [Information Technology](https://github.com/iyke85/Active-Directory)<b>
 - <b>Vultr/Cloud Cybersecurity project</b>
   - [Creating a live soc/Honepot in Vultr](https://github.com/iyke85/Honey-Tpot)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
