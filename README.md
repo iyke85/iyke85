@@ -6,7 +6,7 @@
   - [Creating a live Soc/Honeynet in Azure](https://github.com/iyke85/Cloud-Soc)
 - <b>Information Technology Projects</b>
   - [osTicket: Prerequisites and Installation](https://github.com/iyke85/OsTicket-prereqs/blob/main/README.md)<b>
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)<b>
+  - [osTicket: Post-Installation Configuration](https://github.com/iyke85/OsTicket-Post-Installation/blob/main/README.md)<b>
  - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs)and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
