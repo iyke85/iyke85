@@ -9,7 +9,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/iyke85/OsTicket-Post-Installation/blob/main/README.md)<b>
  - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/iyke85/Active-Directory-Config/blob/main/README.md)
-  - [Network Security Groups (NSGs)and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Network Security Groups (NSGs)and Inspecting Network Protocols](https://github.com/iyke85/NSGs-Net-Protocol/blob/main/README.md)
 - <b>Vultr/Cloud Cybersecurity project</b>
   - [Creating a live soc/Honepot in Vultr](https://github.com/iyke85/Honey-Tpot)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
