@@ -11,16 +11,16 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/iyke85/Active-Directory-Config/blob/main/README.md)
   - [Network Security Groups (NSGs)and Inspecting Network Protocols](https://github.com/iyke85/NSGs-Net-Protocol/blob/main/README.md)
 - <b>Vultr/Cloud Cybersecurity project</b>
-  - [Creating a live soc/Honepot in Vultr](https://github.com/iyke85/Honey-Tpot)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Upcoming](https://github.com/iyke85/Honey-Tpot)
+  - [ (Upcoming)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [ (Upcoming)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>C# (Soc automation project)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/iyke85/SOC-Automation-Project)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Upcoming](https://github.com/iyke85/SOC-Automation-Project)
+  - [Upcoming](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Upcoming](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b></b>
+  - [Upcoming)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
 
