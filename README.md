@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ikechukwu! Aspiring IT/Cybersecurity Professional
+<h1>Hi, I'm Ikechukwu! Field Systems Engineer/Identity & Access Management Engineer
 
 <h2>👨‍💻 My projects:</h2>
 
