@@ -10,7 +10,7 @@
  - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/iyke85/Active-Directory-Config/blob/main/README.md)
   - [Network Security Groups (NSGs)and Inspecting Network Protocols](https://github.com/iyke85/NSGs-Net-Protocol/blob/main/README.md)
-- <b>Enterprise Identity Governance & Access Control Implementation</b>
+- <b>Okta and Microsoft Entra I.A.M project</b>
   - [Upcoming](https://github.com/iyke85/Honey-Tpot)
   - [ (Upcoming)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
