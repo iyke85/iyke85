@@ -13,7 +13,7 @@
 - <b>Okta and Microsoft Entra I.A.M project</b>
   - [Identity & Access Management](https://github.com/iyke85/Honey-Tpot)
   - [ (ENTRA ID Privileged Identity Management )](https://github.com/iyke85/Honey-Tpot)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [CyberArk](https://github.com/iyke85/Honey-Tpot)
   - [ (Upcoming)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>C# (Soc automation project)</b>
   - [Upcoming](https://github.com/iyke85/SOC-Automation-Project)
