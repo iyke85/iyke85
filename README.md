@@ -11,7 +11,7 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/iyke85/Active-Directory-Config/blob/main/README.md)
   - [Network Security Groups (NSGs)and Inspecting Network Protocols](https://github.com/iyke85/NSGs-Net-Protocol/blob/main/README.md)
 - <b>Okta and Microsoft Entra I.A.M project</b>
-  - [Identity & Access Management](https://github.com/iyke85/I.A.M/main/README.md)
+  - [Identity & Access Management](https://github.com/iyke85/Honey-Tpot)
   - [ (CyberARK)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [ (Upcoming)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
