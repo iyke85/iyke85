@@ -11,7 +11,7 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/iyke85/Active-Directory-Config/blob/main/README.md)
   - [Network Security Groups (NSGs)and Inspecting Network Protocols](https://github.com/iyke85/NSGs-Net-Protocol/blob/main/README.md)
 - <b>Okta and Microsoft Entra I.A.M project</b>
-  - [Identity & Access Management](https://github.com/iyke85/Honey-Tpot)
+  - [Unified Identity Lifecycle Automation](https://github.com/iyke85/Honey-Tpot)
   - [ (ENTRA ID Privileged Identity Management )](https://github.com/iyke85/Honey-Tpot)
   - [CyberArk](https://github.com/iyke85/Honey-Tpot)
   - [ (Upcoming)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
