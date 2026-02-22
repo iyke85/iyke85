@@ -12,7 +12,7 @@
   - [Network Security Groups (NSGs)and Inspecting Network Protocols](https://github.com/iyke85/NSGs-Net-Protocol/blob/main/README.md)
 - <b>Zero Trust Access Lifecycle Framework</b>
   - [Unified Identity Lifecycle Automation](https://github.com/iyke85/identity-access-management-projects/tree/main/Zero%20Touch%20Access%20Lifecycle%20Framework)
-  - [ (ENTRA ID Privileged Identity Management )](https://github.com/iyke85/Honey-Tpot)
+  - [ (ENTRA ID Privileged Identity Management )](https://github.com/iyke85/identity-access-management-projects/tree/main/Entra%20ID%20PIM)
   - [Entra ID Conditional access policies ](https://github.com/iyke85/Honey-Tpot)
   - [ (Upcoming)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>C# (Soc automation project)</b>
