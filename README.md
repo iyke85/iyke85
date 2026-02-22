@@ -14,7 +14,7 @@
   - [OKTA Identity Lifecycle Automation](https://github.com/iyke85/identity-access-management-projects/tree/main/Zero%20Touch%20Access%20Lifecycle%20Framework)
   - [ (ENTRA ID Privileged Identity Management )](https://github.com/iyke85/identity-access-management-projects/tree/main/Entra%20ID%20PIM)
   - [Entra ID Conditional access policies ](https://github.com/iyke85/identity-access-management-projects/tree/main/Conditional%20access%20policy)
-  - [(Entra ID lifecycle Automation )](https://github.com/iyke85/identity-access-management-projects/tree/main/Entra%20ID%20PIM)
+  - [(Entra ID lifecycle Automation )](https://github.com/iyke85/identity-access-management-projects/tree/main/Entra%20lifecycle%20workflow)
 - <b>C# (Soc automation project)</b>
   - [Upcoming](https://github.com/iyke85/SOC-Automation-Project)
   - [Upcoming](https://github.com/joshmadakor1/DecrypterPOC)
