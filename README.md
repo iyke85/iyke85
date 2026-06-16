@@ -15,7 +15,7 @@
   - [ (ENTRA ID Privileged Identity Management )](https://github.com/iyke85/identity-access-management-projects/tree/main/Entra%20ID%20PIM)
   - [Entra ID Conditional access policies ](https://github.com/iyke85/identity-access-management-projects/tree/main/Conditional%20access%20policy)
   - [(Entra ID lifecycle Automation )](https://github.com/iyke85/identity-access-management-projects/tree/main/Entra%20lifecycle%20workflow)
-- <b>C# (PAM Blueprint)</b>
+- <b>C# (PAM Blueprint — CyberArk Privileged Access Management Lab Project)</b>
   - [Upcoming](https://github.com/iyke85/SOC-Automation-Project)
   - [Upcoming](https://github.com/joshmadakor1/DecrypterPOC)
   - [Upcoming](https://github.com/joshmadakor1/Key-Logger-With-Email)
